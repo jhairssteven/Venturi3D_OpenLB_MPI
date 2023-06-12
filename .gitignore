@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/src/venturi3dMPI
+# tmp
+tmp/
