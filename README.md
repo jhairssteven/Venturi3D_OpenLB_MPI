@@ -16,5 +16,5 @@ $ sudo apt install mpich
 ```shell
 $ cd Venturi3D_OpenLB_MPI/src/
 $ make
-$ mpirun --oversubscribe -n 3 ./venturi3dMPI
+$ mpirun -n 3 --oversubscribe ./venturi3dMPI
 ```
