@@ -1,0 +1,2292 @@
+[main] 16 28.711
+[main] 16 28.759
+[main] 16 28.792
+[main] 16 28.981
+[main] 16 29.089
+[main] 16 30.122
+[main] 16 30.184
+[main] 16 30.255
+[main] 16 30.295
+[main] 16 30.654
+[main] 16 30.594
+[main] 16 30.93
+[main] 16 30.935
+[main] 16 30.992
+[main] 16 31.016
+[main] 16 30.982
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[prepareGeometry] Prepare Geometry ...
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+
+real    0m19.233s
+user    4m25.840s
+sys     0m3.377s
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[prepareGeometry] Prepare Geometry ...
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[Timer] step=0; percent=0; passedTime=0.925; remTime=18499.1; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=0.994; remTime=19879; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=0.976; remTime=19519; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.009; remTime=20179; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.048; remTime=20959; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.032; remTime=20639; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.019; remTime=20379; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.036; remTime=20719; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.039; remTime=20779; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.058; remTime=21158.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.063; remTime=21258.9; MLUPs=0
+[Timer] step=0; percent=0; passedTime=1.074; remTime=21478.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.075; remTime=21498.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.094; remTime=21878.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.089; remTime=21778.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.119; remTime=22378.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=2.102; remTime=42037.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.123; remTime=42457.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.311; remTime=46217.7; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.489; remTime=49777.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.454; remTime=49077.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.481; remTime=49617.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.523; remTime=50457.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.574; remTime=51477.4; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.537; remTime=50737.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.543; remTime=50857.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.598; remTime=51957.4; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.609; remTime=52177.4; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.638; remTime=52757.4; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.631; remTime=52617.4; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.659; remTime=53177.3; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.698; remTime=53957.3; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[Timer] step=100; percent=0.5; passedTime=7.02; remTime=1396.98; MLUPs=3.33676
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[Timer] step=100; percent=0.5; passedTime=7.282; remTime=1449.12; MLUPs=3.18153
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.46; remTime=1484.54; MLUPs=3.18771
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.594; remTime=1511.21; MLUPs=3.19391
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.656; remTime=1523.54; MLUPs=3.1723
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.666; remTime=1525.53; MLUPs=3.27877
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.715; remTime=1535.29; MLUPs=3.14074
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.766; remTime=1545.43; MLUPs=3.16131
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.728; remTime=1537.87; MLUPs=3.15341
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.75; remTime=1542.25; MLUPs=3.1522
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.789; remTime=1550.01; MLUPs=3.12519
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.792; remTime=1550.61; MLUPs=3.16009
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.837; remTime=1559.56; MLUPs=3.14014
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.84; remTime=1560.16; MLUPs=3.15159
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.873; remTime=1566.73; MLUPs=3.13594
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.948; remTime=1581.65; MLUPs=3.12638
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[Timer] step=200; percent=1; passedTime=12.341; remTime=1221.76; MLUPs=3.08524
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.481; remTime=1235.62; MLUPs=3.15705
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.699; remTime=1257.2; MLUPs=3.13354
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.726; remTime=1259.87; MLUPs=3.19827
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.846; remTime=1271.75; MLUPs=3.16313
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.87; remTime=1274.13; MLUPs=3.15462
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.909; remTime=1277.99; MLUPs=3.23802
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.965; remTime=1283.54; MLUPs=3.17108
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.994; remTime=1286.41; MLUPs=3.1098
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.056; remTime=1292.54; MLUPs=3.10215
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.028; remTime=1289.77; MLUPs=3.09689
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.092; remTime=1296.11; MLUPs=3.0963
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.082; remTime=1295.12; MLUPs=3.12876
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.117; remTime=1298.58; MLUPs=3.17537
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.118; remTime=1298.68; MLUPs=3.05709
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.145; remTime=1301.36; MLUPs=3.11274
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=300; percent=1.5; passedTime=17.355; remTime=1139.64; MLUPs=3.36756
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.355s
+[Timer] measured time (cpu): 15.760s
+[Timer] average MLUPs :       2.837
+[Timer] average MLUPps:       2.837
+[Timer] ---------------------------------------------
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=300; percent=1.5; passedTime=17.502; remTime=1149.3; MLUPs=3.18029
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.502s
+[Timer] measured time (cpu): 15.757s
+[Timer] average MLUPs :       2.813
+[Timer] average MLUPps:       2.813
+[Timer] ---------------------------------------------
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[Timer] step=300; percent=1.5; passedTime=17.738; remTime=1164.8; MLUPs=3.25794
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.738s
+[Timer] measured time (cpu): 15.908s
+[Timer] average MLUPs :       2.776
+[Timer] average MLUPps:       2.776
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.927; remTime=1177.21; MLUPs=3.30784
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.927s
+[Timer] measured time (cpu): 16.135s
+[Timer] average MLUPs :       2.747
+[Timer] average MLUPps:       2.747
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.991; remTime=1181.41; MLUPs=3.19018
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.992s
+[Timer] measured time (cpu): 15.873s
+[Timer] average MLUPs :       2.737
+[Timer] average MLUPps:       2.737
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.083; remTime=1187.45; MLUPs=3.06336
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.83s
+[Timer] measured time (cpu): 15.985s
+[Timer] average MLUPs :       2.723
+[Timer] average MLUPps:       2.723
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.083; remTime=1187.45; MLUPs=3.14857
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.83s
+[Timer] measured time (cpu): 16.199s
+[Timer] average MLUPs :       2.723
+[Timer] average MLUPps:       2.723
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.109; remTime=1189.16; MLUPs=3.27223
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.109s
+[Timer] measured time (cpu): 16.122s
+[Timer] average MLUPs :       2.719
+[Timer] average MLUPps:       2.719
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.156; remTime=1192.24; MLUPs=3.25859
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.156s
+[Timer] measured time (cpu): 16.135s
+[Timer] average MLUPs :       2.712
+[Timer] average MLUPps:       2.712
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.215; remTime=1196.12; MLUPs=3.14375
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.215s
+[Timer] measured time (cpu): 16.163s
+[Timer] average MLUPs :       2.703
+[Timer] average MLUPps:       2.703
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.177; remTime=1193.62; MLUPs=3.11511
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.177s
+[Timer] measured time (cpu): 16.232s
+[Timer] average MLUPs :       2.709
+[Timer] average MLUPps:       2.709
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.219; remTime=1196.38; MLUPs=3.2177
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.219s
+[Timer] measured time (cpu): 16.065s
+[Timer] average MLUPs :       2.703
+[Timer] average MLUPps:       2.703
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.224; remTime=1196.71; MLUPs=3.15887
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.224s
+[Timer] measured time (cpu): 16.022s
+[Timer] average MLUPs :       2.702
+[Timer] average MLUPps:       2.702
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.28; remTime=1200.39; MLUPs=3.14254
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.280s
+[Timer] measured time (cpu): 16.154s
+[Timer] average MLUPs :       2.694
+[Timer] average MLUPps:       2.694
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.212; remTime=1195.92; MLUPs=3.19951
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.212s
+[Timer] measured time (cpu): 16.092s
+[Timer] average MLUPs :       2.704
+[Timer] average MLUPps:       2.704
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.271; remTime=1199.8; MLUPs=3.20263
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.271s
+[Timer] measured time (cpu): 16.102s
+[Timer] average MLUPs :       2.695
+[Timer] average MLUPps:       2.695
+[Timer] ---------------------------------------------
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[ThreadPool] Sucessfully initialized, numThreads=1
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[ThreadPool] Sucessfully initialized, numThreads=1
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] ----------------- UnitConverter information -----------------
+[UnitConverter] -- Parameters:
+[UnitConverter] Resolution:                       N=              1
+[UnitConverter] Lattice velocity:                 latticeU=       0.2
+[UnitConverter] Lattice relaxation frequency:     omega=          1.98807
+[UnitConverter] Lattice relaxation time:          tau=            0.503
+[UnitConverter] Characteristical length(m):       charL=          0.1
+[UnitConverter] Characteristical speed(m/s):      charU=          2
+[UnitConverter] Phys. kinematic viscosity(m^2/s): charNu=         0.001
+[UnitConverter] Phys. density(kg/m^d):            charRho=        1
+[UnitConverter] Characteristical pressure(N/m^2): charPressure=   0
+[UnitConverter] Mach number:                      machNumber=     0.34641
+[UnitConverter] Reynolds number:                  reynoldsNumber= 200
+[UnitConverter] Knudsen number:                   knudsenNumber=  0.00173205
+[UnitConverter] 
+[UnitConverter] -- Conversion factors:
+[UnitConverter] Voxel length(m):                  physDeltaX=     0.1
+[UnitConverter] Time step(s):                     physDeltaT=     0.01
+[UnitConverter] Velocity factor(m/s):             physVelocity=   10
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[UnitConverter] Density factor(kg/m^3):           physDensity=    1
+[UnitConverter] Mass factor(kg):                  physMass=       0.001
+[UnitConverter] Viscosity factor(m^2/s):          physViscosity=  1
+[UnitConverter] Force factor(N):                  physForce=      1
+[UnitConverter] Pressure factor(N/m^2):           physPressure=   100
+[UnitConverter] -------------------------------------------------------------
+[prepareGeometry] Prepare Geometry ...
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] cleaned 639 outer boundary voxel(s)
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] cleaned 0 inner boundary voxel(s)
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometryStatistics3D] updated
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometry3D] the model is correct!
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[SuperGeometry3D] the model is correct!
+[SuperGeometryStatistics3D] materialNumber=0; count=352711; minPhysR=(5,5,30); maxPhysR=(195,70,70)
+[SuperGeometryStatistics3D] materialNumber=1; count=135533; minPhysR=(6,6,32); maxPhysR=(194,68,68)
+[SuperGeometryStatistics3D] materialNumber=2; count=26211; minPhysR=(5,5,31); maxPhysR=(195,69,69)
+[SuperGeometryStatistics3D] materialNumber=3; count=1101; minPhysR=(5,32,32); maxPhysR=(5,68,68)
+[SuperGeometryStatistics3D] materialNumber=4; count=1101; minPhysR=(195,32,32); maxPhysR=(195,68,68)
+[SuperGeometryStatistics3D] materialNumber=5; count=189; minPhysR=(107,5,42); maxPhysR=(123,5,58)
+[prepareGeometry] Prepare Geometry ... OK
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ...
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[prepareLattice] Prepare Lattice ... OK
+[Timer] step=0; percent=0; passedTime=0.916; remTime=18319.1; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=0.932; remTime=18639.1; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.016; remTime=20319; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1; remTime=19999; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.013; remTime=20259; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.031; remTime=20619; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.025; remTime=20499; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.042; remTime=20839; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.077; remTime=21538.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.075; remTime=21498.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.078; remTime=21558.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.094; remTime=21878.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[Timer] step=0; percent=0; passedTime=1.109; remTime=22178.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.148; remTime=22958.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.131; remTime=22618.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=1.159; remTime=23178.8; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=0; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=0; scalingFactor=0
+[Timer] step=0; percent=0; passedTime=2.082; remTime=41637.9; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.307; remTime=46137.7; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.246; remTime=44917.8; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.287; remTime=45737.7; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.319; remTime=46377.7; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.369; remTime=47377.6; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.369; remTime=47377.6; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.395; remTime=47897.6; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.407; remTime=48137.6; MLUPs=0
+[Timer] step=0; percent=0; passedTime=2.436; remTime=48717.6; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.45; remTime=48997.6; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.461; remTime=49217.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.426; remTime=48517.6; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.473; remTime=49457.5; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.57; remTime=51397.4; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[Timer] step=0; percent=0; passedTime=2.606; remTime=52117.4; MLUPs=0
+[LatticeStatistics] step=0; t=0; uMax=1.49167e-154; avEnergy=0; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=50; scalingFactor=3.03747e-07
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[Timer] step=100; percent=0.5; passedTime=6.993; remTime=1391.61; MLUPs=3.34219
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=100; scalingFactor=2.41858e-06
+[Timer] step=100; percent=0.5; passedTime=7.346; remTime=1461.85; MLUPs=3.25794
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.283; remTime=1449.32; MLUPs=3.28467
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.321; remTime=1456.88; MLUPs=3.28139
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.57; remTime=1506.43; MLUPs=3.30584
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.6; remTime=1512.4; MLUPs=3.1607
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.602; remTime=1512.8; MLUPs=3.13714
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.633; remTime=1518.97; MLUPs=3.13354
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.683; remTime=1528.92; MLUPs=3.14314
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.644; remTime=1521.16; MLUPs=3.04123
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.708; remTime=1533.89; MLUPs=3.19515
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.72; remTime=1536.28; MLUPs=3.12876
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.721; remTime=1536.48; MLUPs=3.0668
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.727; remTime=1537.67; MLUPs=3.09689
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.836; remTime=1559.36; MLUPs=3.048
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[Timer] step=100; percent=0.5; passedTime=7.92; remTime=1576.08; MLUPs=2.99353
+[LatticeStatistics] step=100; t=1; uMax=4.83715e-08; avEnergy=3.81138e-18; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=150; scalingFactor=8.12431e-06
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=200; scalingFactor=1.91669e-05
+[Timer] step=200; percent=1; passedTime=12.213; remTime=1209.09; MLUPs=3.14435
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.439; remTime=1231.46; MLUPs=3.184
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.457; remTime=1233.24; MLUPs=3.1964
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.646; remTime=1251.95; MLUPs=3.09747
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.678; remTime=1255.12; MLUPs=3.23419
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.724; remTime=1259.68; MLUPs=3.23164
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.754; remTime=1262.65; MLUPs=3.16618
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.807; remTime=1267.89; MLUPs=3.22719
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.873; remTime=1274.43; MLUPs=3.18585
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.937; remTime=1280.76; MLUPs=3.21833
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=12.948; remTime=1281.85; MLUPs=3.06909
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.001; remTime=1287.1; MLUPs=3.22973
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13; remTime=1287; MLUPs=3.08757
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.047; remTime=1291.65; MLUPs=3.07369
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.048; remTime=1291.75; MLUPs=3.08408
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[Timer] step=200; percent=1; passedTime=13.117; remTime=1298.58; MLUPs=2.99298
+[LatticeStatistics] step=200; t=2; uMax=3.83337e-07; avEnergy=8.6477e-16; avRho=1
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=250; scalingFactor=3.72585e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[Timer] step=300; percent=1.5; passedTime=17.392; remTime=1142.07; MLUPs=3.16924
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.392s
+[Timer] measured time (cpu): 15.898s
+[Timer] average MLUPs :       2.831
+[Timer] average MLUPps:       2.831
+[Timer] ---------------------------------------------
+[setBoundaryValues] Set Boundary Values ...
+[setBoundaryValues] step=300; scalingFactor=6.40779e-05
+[Timer] step=300; percent=1.5; passedTime=17.546; remTime=1152.19; MLUPs=3.21455
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.546s
+[Timer] measured time (cpu): 16.038s
+[Timer] average MLUPs :       2.806
+[Timer] average MLUPps:       2.806
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.653; remTime=1159.21; MLUPs=3.15948
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.653s
+[Timer] measured time (cpu): 15.917s
+[Timer] average MLUPs :       2.789
+[Timer] average MLUPps:       2.789
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.833; remTime=1171.03; MLUPs=3.16496
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.833s
+[Timer] measured time (cpu): 15.802s
+[Timer] average MLUPs :       2.761
+[Timer] average MLUPps:       2.761
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.773; remTime=1167.09; MLUPs=3.27092
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.773s
+[Timer] measured time (cpu): 16.210s
+[Timer] average MLUPs :       2.771
+[Timer] average MLUPps:       2.771
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.794; remTime=1168.47; MLUPs=3.2906
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.794s
+[Timer] measured time (cpu): 16.099s
+[Timer] average MLUPs :       2.767
+[Timer] average MLUPps:       2.767
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.813; remTime=1169.72; MLUPs=3.1964
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.813s
+[Timer] measured time (cpu): 16.012s
+[Timer] average MLUPs :       2.764
+[Timer] average MLUPps:       2.764
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.808; remTime=1169.39; MLUPs=3.22846
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.808s
+[Timer] measured time (cpu): 15.972s
+[Timer] average MLUPs :       2.765
+[Timer] average MLUPps:       2.765
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.858; remTime=1172.68; MLUPs=3.29258
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.858s
+[Timer] measured time (cpu): 15.993s
+[Timer] average MLUPs :       2.757
+[Timer] average MLUPps:       2.757
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.934; remTime=1177.67; MLUPs=3.29192
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.934s
+[Timer] measured time (cpu): 16.049s
+[Timer] average MLUPs :       2.746
+[Timer] average MLUPps:       2.746
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.984; remTime=1180.95; MLUPs=3.25213
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.984s
+[Timer] measured time (cpu): 16.012s
+[Timer] average MLUPs :       2.738
+[Timer] average MLUPps:       2.738
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=17.999; remTime=1181.93; MLUPs=3.31586
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 17.999s
+[Timer] measured time (cpu): 16.055s
+[Timer] average MLUPs :       2.736
+[Timer] average MLUPps:       2.736
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.071; remTime=1186.66; MLUPs=3.23802
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.71s
+[Timer] measured time (cpu): 15.973s
+[Timer] average MLUPs :       2.725
+[Timer] average MLUPps:       2.725
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.071; remTime=1186.66; MLUPs=3.26702
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.71s
+[Timer] measured time (cpu): 15.988s
+[Timer] average MLUPs :       2.725
+[Timer] average MLUPps:       2.725
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.122; remTime=1190.01; MLUPs=3.20388
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.122s
+[Timer] measured time (cpu): 16.177s
+[Timer] average MLUPs :       2.717
+[Timer] average MLUPps:       2.717
+[Timer] ---------------------------------------------
+[Timer] step=300; percent=1.5; passedTime=18.106; remTime=1188.96; MLUPs=3.28928
+[LatticeStatistics] step=300; t=3; uMax=1.28156e-06; avEnergy=1.69202e-14; avRho=1
+[Timer] 
+[Timer] ----------------Summary:Timer----------------
+[Timer] measured time (rt) : 18.106s
+[Timer] measured time (cpu): 16.105s
+[Timer] average MLUPs :       2.720
+[Timer] average MLUPps:       2.720
+[Timer] ---------------------------------------------

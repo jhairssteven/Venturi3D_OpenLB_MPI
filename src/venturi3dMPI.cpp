@@ -9,7 +9,7 @@ using namespace olb::graphics;
 using T          = FLOATING_POINT_TYPE;
 using DESCRIPTOR = D3Q19<>;
 
-T maxPhysT = 200.0; // max. simulation time in s, SI unit
+T maxPhysT = 10.0; // max. simulation time in s, SI unit
 
 /* Reads geometry characteristics from a file and discretizes the 
 geometry with a given voxel resolution. Also, distributes efficiently
@@ -42,7 +42,7 @@ SuperGeometry<T, 3> prepareGeometry()
 
   /*singleton::mpi().getSize(): The number of processes used for the simulation. 
   This determines the load balancing of the geometry.*/
-  CuboidGeometry3D<T>* cuboidGeometry =
+  CuboidGeometry3D<T> cuboidGeometry =
       new CuboidGeometry3D<T>(*venturi, 1. / N, singleton::mpi().getSize());
 
   // Build LoadBalancer from CuboidGeometry (weights are respected)
@@ -50,12 +50,12 @@ SuperGeometry<T, 3> prepareGeometry()
   load across multiple processes efficiently, respecting the weights of 
   the cuboid geometry.*/
   
-  HeuristicLoadBalancer<T>* loadBalancer =
-      new HeuristicLoadBalancer<T>(*cuboidGeometry);
-
+  /*HeuristicLoadBalancer<T>* loadBalancer =
+      new HeuristicLoadBalancer<T>(*cuboidGeometry);*/
+  BlockLoadBalancer<T> loadBalancer(singleton::mpi().getRank(), singleton::mpi().getSize(), cuboidGeometry->getNc(), 0);
   // Default instantiation of superGeometry
   // '3' argument is the simulation's dimensionality (i.e.: Geometry dimension)
-  SuperGeometry<T, 3> superGeometry(*cuboidGeometry, *loadBalancer, 3);
+  SuperGeometry<T, 3> superGeometry(cuboidGeometry, loadBalancer, 3);
 
   // Set boundary voxels by rename material numbers
   superGeometry.rename(0, 2, venturi);
@@ -197,13 +197,17 @@ void getResults(SuperLattice<T, DESCRIPTOR>&  sLattice,
     timer.printStep();
     sLattice.getStatistics().print(iT, converter.getPhysTime(iT));
   }
+  
 }
 
 int main(int argc, char* argv[])
 {
-  MPI_Init(&argc, &argv);
 
   // === 1st Step: Initialization ===
+  //MPI_Init(&argc, &argv);  
+ /*  int pid, np;
+  MPI_Comm_size(MPI_COMM_WORLD, &np);
+  MPI_Comm_rank(MPI_COMM_WORLD, &pid); */
 
   olbInit(&argc, &argv);
   singleton::directories().setOutputDir("./tmp/");
@@ -248,11 +252,21 @@ int main(int argc, char* argv[])
 
     // === 7th Step: Computation and Output of the Results ===
     getResults(sLattice, *converter, iT, superGeometry, timer);
+
+    if (singleton::mpi().isMainProcessor()) {
+      std::cout << singleton::mpi().getSize() << std::endl;
+    }
   }
 
   timer.stop();
   timer.printSummary();
-  MPI_Finalize();
-
+  //MPI_Finalize();  
+  /* std::ofstream outputFile("./scaling/timer_summary.txt", std::ios::app);
+  std::streambuf* oldBuffer = std::cout.rdbuf(outputFile.rdbuf());
+    clout << np << " " << std::chrono::duration_cast<std::chrono::milliseconds>(end - start).count()/1000.0 << std::endl;
+  std::cout.rdbuf(oldBuffer);
+  outputFile.close();
+  */
+   
   return 0;
 }
