@@ -11,6 +11,9 @@ using DESCRIPTOR = D3Q19<>;
 
 T maxPhysT = 200.0; // max. simulation time in s, SI unit
 
+/* Reads geometry characteristics from a file and discretizes the 
+geometry with a given voxel resolution. Also, distributes efficiently
+the geometry voxels deppending the number of used processes. */
 SuperGeometry<T, 3> prepareGeometry()
 {
 
@@ -20,6 +23,7 @@ SuperGeometry<T, 3> prepareGeometry()
   std::string fName("venturi3dMPI.xml");
   XMLreader   config(fName);
 
+  // Read properties from config file
   std::shared_ptr<IndicatorF3D<T>> inflow = createIndicatorCylinder3D<T>(
       config["Geometry"]["Inflow"]["IndicatorCylinder3D"], false);
   std::shared_ptr<IndicatorF3D<T>> outflow0 = createIndicatorCylinder3D<T>(
@@ -31,15 +35,26 @@ SuperGeometry<T, 3> prepareGeometry()
       createIndicatorF3D<T>(config["Geometry"]["Venturi"], false);
 
   // Build CoboidGeometry from IndicatorF (weights are set, remove and shrink is done)
+  /* N: number of voxels per Characteristic Physical Length (a real length). 
+  Used to control the level of discretization for the simulation. Higher N brings
+  better accuracy, but higher computational cost. */
   int N = config["Application"]["Discretization"]["Resolution"].get<int>();
+
+  /*singleton::mpi().getSize(): The number of processes used for the simulation. 
+  This determines the load balancing of the geometry.*/
   CuboidGeometry3D<T>* cuboidGeometry =
       new CuboidGeometry3D<T>(*venturi, 1. / N, singleton::mpi().getSize());
 
   // Build LoadBalancer from CuboidGeometry (weights are respected)
+  /* The load balancer is responsible for distributing the computational 
+  load across multiple processes efficiently, respecting the weights of 
+  the cuboid geometry.*/
+  
   HeuristicLoadBalancer<T>* loadBalancer =
       new HeuristicLoadBalancer<T>(*cuboidGeometry);
 
   // Default instantiation of superGeometry
+  // '3' argument is the simulation's dimensionality (i.e.: Geometry dimension)
   SuperGeometry<T, 3> superGeometry(*cuboidGeometry, *loadBalancer, 3);
 
   // Set boundary voxels by rename material numbers
@@ -61,7 +76,7 @@ SuperGeometry<T, 3> prepareGeometry()
   clout << "Prepare Geometry ... OK" << std::endl;
   return superGeometry;
 }
-
+/* Set material properties for each numbered material*/
 void prepareLattice(SuperLattice<T, DESCRIPTOR>&        sLattice,
                     UnitConverter<T, DESCRIPTOR> const& converter,
                     SuperGeometry<T, 3>&                superGeometry)
@@ -69,13 +84,15 @@ void prepareLattice(SuperLattice<T, DESCRIPTOR>&        sLattice,
 
   OstreamManager clout(std::cout, "prepareLattice");
   clout << "Prepare Lattice ..." << std::endl;
-
+  
+  // The rate at which the fluid in the simulation relaxes towards equilibrium.
   const T omega = converter.getLatticeRelaxationFrequency();
 
   // Material=1 -->bulk dynamics
   sLattice.defineDynamics<RLBdynamics>(superGeometry, 1);
 
   // Material=2 -->bounce back
+  // When fluid particles encounter this boundary, they rebound in the opposite direction.
   setBounceBackBoundary(sLattice, superGeometry, 2);
 
   // Setting of the boundary conditions
@@ -100,7 +117,7 @@ void setBoundaryValues(SuperLattice<T, DESCRIPTOR>&        sLattice,
 {
   OstreamManager clout(std::cout, "setBoundaryValues");
 
-  // No of time steps for smooth start-up
+  // No. of time steps for smooth start-up
   int iTmaxStart = converter.getLatticeTime(maxPhysT * 0.8);
   int iTperiod   = 50;
 

@@ -33,3 +33,6 @@
 /src/venturi3dMPI
 # tmp
 tmp/
+
+#vscode
+.vscode/
