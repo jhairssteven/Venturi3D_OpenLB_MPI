@@ -211,9 +211,9 @@ int main(int argc, char **argv)
   superLattice.setProcessingContext(ProcessingContext::Evaluation);
 
   if (singleton::mpi().isMainProcessor()) {
-    std::cout << steps << ", "
-              << timer.getTotalMLUPs() << ", " // lattice boltzman updates per second
-              << singleton::mpi().getSize() << ", "
+    std::cout << steps << " "
+              << timer.getTotalMLUPs() << " " // lattice boltzman updates per second
+              << singleton::mpi().getSize() << " "
               << timer.getTotalRealTimeMs()/1000.0 << std::endl;
   }
 

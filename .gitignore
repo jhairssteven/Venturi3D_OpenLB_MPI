@@ -36,3 +36,6 @@ tmp/
 
 #vscode
 .vscode/
+
+#python virtual environments
+venv/
