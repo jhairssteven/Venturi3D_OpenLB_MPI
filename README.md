@@ -9,12 +9,38 @@ Simulación de un venturi 3d utilizando OpenLB y análisis de rendimiento utiliz
 $ sudo apt update
 $ sudo apt install mpich
 ```
+- pip: Instalar las dependencias para poder plotear las métricas con
+
+```shell
+    $ pip install -r cavity3d/requirements.txt
+```
 
 # Start up
-- Clonar este repositorio en el directorio `openlb/examples/`
+- Con openlb instalado, clonar este repositorio en el directorio `openlb/examples/`
+ 
+# Configuración de openlb para soporte MPI
+Reemplazar el contenido del archivo `config.mk` en el directorio principal de **openlb** por el del archivo `cpu_gcc_openmpi.mk` ubicado en **openlb/config/cpu_gcc_openmpi.mk**. **En el root de openlb, realizar la compilación de toda la librería openlb con:**
 
+```shell
+openlb/ $ make clean; make
+```
+
+# Ejemplo venturi3d
 ```shell
 $ cd Venturi3D_OpenLB_MPI/src/
 $ make
-$ mpirun -n 3 --oversubscribe ./venturi3dMPI
+$ mpirun -n 1 ./venturi3dMPI
 ```
+
+# Ejemplo cavity3d usando MPI
+> *Tenga en cuenta que para obtener resultados acordes debe haber configurado openlb para soporte mpi conforme [soporte MPI](#configuración-de-openlb-para-soporte-mpi).*
+# Startup
+```shell
+$ make -f MyMakefile.mk
+```
+
+Los resultados se pueden ver en los archivos en el directorio [output](/cavity3d/output/PDFs/) creado automáticamente. Ejemplo de los resultados:
+
+
+| ![Eficiencia paralela](/cavity3d/images/Parallel%20Efficiency.png)  | ![Speedup](/cavity3d/images/speedup.png) | ![Strong scaling](/cavity3d/images/strong_scaling.png) |
+|:---:|:---:|:---:|
